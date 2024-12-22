@@ -9,5 +9,7 @@ module.exports ={
                 hostname:'openweathermap.org'
             }
         ]
-    }
+    },
+     output: "export"
 }
+module.exports = nextConfig;
